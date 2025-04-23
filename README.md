@@ -1,2 +1,2 @@
-# Js-activities
-Projetos de javascript desenvolvido durante a faculdade
+# js activities 
+projetos sobre javascript feitos na faculdade 
